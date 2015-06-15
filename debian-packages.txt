@@ -1,0 +1,16 @@
+Change owner
+ls -la
+sudo chown -R root:root rock_1.0.1
+ls -la
+
+Build:
+dpkg-deb --build rock_1.0.1
+
+Install:
+sudo dpkg --install rock_1.0.1.deb
+
+Uninstall:
+sudo apt-get remove rock
+
+
+
