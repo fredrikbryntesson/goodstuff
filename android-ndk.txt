@@ -1,0 +1,3 @@
+
+
+dl.google.com/android/ndk/android-ndk-r10d-linux-x86_64.bin
