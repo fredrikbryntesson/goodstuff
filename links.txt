@@ -1,0 +1,50 @@
+GO
+https://golang.org/doc/articles/wiki/
+https://github.com/google/go-github/blob/master/github/licenses.go
+https://github.com/trending/go
+http://www.golangbootcamp.com/book/basics
+https://github.com/GoBootcamp/clirescue
+
+LXD
+https://www.ubuntu.com/cloud/lxd
+https://linuxcontainers.org/lxd/
+https://linuxcontainers.org/lxd/getting-started-cli/
+https://linuxcontainers.org/lxd/rest-api/
+
+SLACKBOT
+https://api.slack.com/bot-users
+https://github.com/howdyai/botkit/blob/master/readme.md#basic-usage
+https://github.com/howdyai/botkit/blob/master/slack_bot.js
+https://www.youtube.com/watch?v=BWaTYiTbv7Q
+http://blog.npmjs.org/post/128237577345/how-to-build-a-slackbot-deploy-an-app-to-heroku
+https://scotch.io/tutorials/building-a-slack-bot-with-node-js-and-chuck-norris-super-powers#slack-real-time-apis
+https://www.npmjs.com/package/slackbots
+
+NODEGIT
+https://www.bennadel.com/blog/2169-where-does-node-js-and-require-look-for-modules.htm
+http://stackoverflow.com/questions/31826438/npm-install-fails-because-package-is-missing-in-registry
+http://stackoverflow.com/questions/20114901/why-does-npm-need-sudo-for-everything
+https://github.com/nodegit/nodegit/blob/adf88fa9de46cbf75973375cc9794d41b43b33ad/test/tests/commit.js
+https://www.npmjs.com/package/nodegit
+http://radek.io/2015/10/27/nodegit/
+http://stackoverflow.com/questions/19223051/grunt-js-what-does-save-dev-mean-in-npm-install-grunt-save-dev
+1: Make sure you dont have a newer (or older) version of nodegit installed, if so - uninstall it globally AND locally.
+2: Search for nodegit on computer if previous versions where installed. npm will find nodegit if its located on your desktop for example.
+3: Write in terminal: "npm install -g nodegit@0.13.2" This will install nodegit globally, locally should work fine as well.
+4: Nodegit successfully installed.
+
+PASSPORT
+https://code.tutsplus.com/tutorials/authenticating-nodejs-applications-with-passport--cms-21619
+http://www.bogotobogo.com/MEAN-Stack/MEAN-Stack-MongoDB-ExpressJS-AngularJS-NodeJS-Authentication-Passport-App.php
+https://github.com/jaredhanson/passport-github
+https://github.com/cwbuecheler/node-tutorial-2-restful-app
+http://cwbuecheler.com/web/tutorials/2014/restful-web-app-node-express-mongodb/
+http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/
+https://www.thepolyglotdeveloper.com/2015/10/create-a-simple-restful-api-with-node-js/
+
+SCRAPPING
+https://www.digitalocean.com/community/tutorials/how-to-use-node-js-request-and-cheerio-to-set-up-simple-web-scraping
+http://dillonbuchanan.com/programming/html-scraping-in-nodejs-with-cheerio/
+https://scotch.io/tutorials/scraping-the-web-with-node-js
+http://code4node.com/snippet/web-scraping-with-nodejs-and-cheerio
+
