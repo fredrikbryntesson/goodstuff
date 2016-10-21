@@ -19,6 +19,11 @@ https://www.youtube.com/watch?v=BWaTYiTbv7Q
 http://blog.npmjs.org/post/128237577345/how-to-build-a-slackbot-deploy-an-app-to-heroku
 https://scotch.io/tutorials/building-a-slack-bot-with-node-js-and-chuck-norris-super-powers#slack-real-time-apis
 https://www.npmjs.com/package/slackbots
+https://www.sitepoint.com/getting-started-slack-bots/
+http://thenextweb.com/apps/2015/02/05/13-cool-things-might-not-know-can-slack/
+https://github.com/gsingers/slack-alias-plugin
+https://api.slack.com/slash-commands
+
 
 NODEGIT
 https://www.bennadel.com/blog/2169-where-does-node-js-and-require-look-for-modules.htm
