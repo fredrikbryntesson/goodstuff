@@ -56,3 +56,17 @@ http://dillonbuchanan.com/programming/html-scraping-in-nodejs-with-cheerio/
 https://scotch.io/tutorials/scraping-the-web-with-node-js
 http://code4node.com/snippet/web-scraping-with-nodejs-and-cheerio
 
+PYUI
+https://kivy.org/#home
+https://github.com/kivy/kivy/tree/master/kivy
+http://insights.dice.com/2014/11/26/5-top-python-guis-for-2015/
+http://www.activestate.com/blog/2015/10/python-gui-programming-wxpython-vs-tkinter
+https://opensource.com/life/16/5/open-source-python-gui-frameworks
+https://kivy.org/docs/gettingstarted/examples.html
+
+
+Or you can use a framework like Pyforms to build a consistent experience across the web, command line, and desktop, all with a single code base.
+http://pyforms.readthedocs.io/en/latest/
+
+You can even use a library like pywebview to put a thin wrapper around a web application in a more native GUI window.
+https://github.com/r0x0r/pywebview
