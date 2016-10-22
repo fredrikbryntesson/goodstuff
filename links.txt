@@ -46,6 +46,9 @@ https://github.com/cwbuecheler/node-tutorial-2-restful-app
 http://cwbuecheler.com/web/tutorials/2014/restful-web-app-node-express-mongodb/
 http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/
 https://www.thepolyglotdeveloper.com/2015/10/create-a-simple-restful-api-with-node-js/
+https://github.com/mjhea0/passport-examples
+http://mherman.org/blog/2013/11/10/social-authentication-with-passport-dot-js/#.V_uHxdGlilM
+
 
 SCRAPPING
 https://www.digitalocean.com/community/tutorials/how-to-use-node-js-request-and-cheerio-to-set-up-simple-web-scraping
