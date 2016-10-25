@@ -56,6 +56,11 @@ http://dillonbuchanan.com/programming/html-scraping-in-nodejs-with-cheerio/
 https://scotch.io/tutorials/scraping-the-web-with-node-js
 http://code4node.com/snippet/web-scraping-with-nodejs-and-cheerio
 
+IRSSI SLACK
+http://www.pilgrimbreak.com/how-to-access-slack-with-command-line-irc-client-irssi/
+https://joost.vunderink.net/blog/2011/12/02/irssi-tricks-navigating-around/
+https://robots.thoughtbot.com/weechat-for-slacks-irc-gateway
+
 PYUI
 https://kivy.org/#home
 https://github.com/kivy/kivy/tree/master/kivy
