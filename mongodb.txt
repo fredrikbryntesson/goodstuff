@@ -1,0 +1,6 @@
+# Show all databases current in mongo
+mongo
+show dbs
+
+# Delete database dname
+mongo <dbname> --eval "db.dropDatabase()"
