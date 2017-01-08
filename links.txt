@@ -5,6 +5,9 @@ https://github.com/trending/go
 http://www.golangbootcamp.com/book/basics
 https://github.com/GoBootcamp/clirescue
 
+DOCKER
+https://jpetazzo.github.io/2014/06/23/docker-ssh-considered-evil/
+
 LXD
 https://www.ubuntu.com/cloud/lxd
 https://linuxcontainers.org/lxd/
