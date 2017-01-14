@@ -26,6 +26,15 @@ https://www.sitepoint.com/getting-started-slack-bots/
 http://thenextweb.com/apps/2015/02/05/13-cool-things-might-not-know-can-slack/
 https://github.com/gsingers/slack-alias-plugin
 https://api.slack.com/slash-commands
+https://www.sitepoint.com/getting-started-slack-bots/
+https://scotch.io/tutorials/using-mongoosejs-in-node-js-and-mongodb-applications
+http://stackoverflow.com/questions/28712248/difference-between-mongodb-and-mongoose
+http://mongoosejs.com/docs/
+http://stackoverflow.com/questions/19974216/is-there-an-upsert-option-in-mongodb-insert-command/19974919#19974919
+https://www.npmjs.com/package/node-libcurl
+https://api.slack.com/methods/channels.kick
+https://api.slack.com/web#basics
+
 
 
 NODEGIT
@@ -58,6 +67,14 @@ https://www.digitalocean.com/community/tutorials/how-to-use-node-js-request-and-
 http://dillonbuchanan.com/programming/html-scraping-in-nodejs-with-cheerio/
 https://scotch.io/tutorials/scraping-the-web-with-node-js
 http://code4node.com/snippet/web-scraping-with-nodejs-and-cheerio
+
+MONGODB
+https://blog.xervo.io/mongodb-tutorial
+http://stackoverflow.com/questions/23615377/monk-vs-mongoose-for-mongodb
+http://stackoverflow.com/questions/13010290/nodejs-mongo-insert-if-not-exists-otherwise-update
+https://docs.mongodb.com/v3.2/reference/method/db.collection.update/
+https://blog.xervo.io/mongodb-tutorial
+https://blog.xervo.io/getting-started-with-mongoose
 
 IRSSI SLACK
 http://www.pilgrimbreak.com/how-to-access-slack-with-command-line-irc-client-irssi/
