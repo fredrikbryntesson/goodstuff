@@ -95,3 +95,49 @@ http://pyforms.readthedocs.io/en/latest/
 
 You can even use a library like pywebview to put a thin wrapper around a web application in a more native GUI window.
 https://github.com/r0x0r/pywebview
+
+
+1. Ace: Sparar din "att göra-lista" och utför undersökningar. Med hjälp av Ace skapar du enkelt en 
+"att göra-lista" enbart genom att skicka meddelanden till boten. Varje
+listpunkt kan sedan delegeras till en viss kanal eller medlem i slack-laget. Ace kan även skapa 
+enklare undersökningar och sedan summera svarsresultaten.
+
+2. Brisby:  Svarar på arbetsplatsens vanligaste frågor. Brisby kan användas som en databas över 
+de vanligaste frågorna på arbetsplatsen, och de tillhörande svaren.
+Till exmepel kan du lära boten svaret på frågan ”Vad är lösenordet till WiFi:t”. När någon på 
+arbetsplatsen sedan glömt av lösenordet kan de enkelt fråga Brisby som svarar.
+BÖR HACKAS
+
+3. DBOT: Skannar filer efter skadlig kod. DBOT fungerar som en vakthund och 
+skannar automatiskt av alla filer efter som skickas i en kanal.
+Skulle boten hitta en tvivelaktig fil skickar den ut en varning till alla i 
+kanalen, och lämmnar sedan en utförlig rapport om vad den hittat.
+
+4. EmojiBot: Väljer rätt emoji åt dig. Genom att skicka ett ord eller en fras 
+till Emojibot får du en lista på emojis som kan passa.
+Boten är även såpass schysst att den skickar med det exakta kommandot för 
+hur du skriver den lilla symbolen.
+
+
+
+5. Howdy: Ställer frågor och sammanställer svaren. Via Howdy kan du snabbt 
+ställa frågor till alla personer som finns i din kanal. Till exempel hur långt de kommit med en 
+arbetsuppgift eller när de kan ta ett möte. Svaren sammanställs sedan i en rapport.
+Det fiffiga är att frågorna kan schemaläggas, vilket betyder att du aldrig 
+behöver fråga arbetskamraterna om de har lunchlåda med sig igen.
+
+
+
+6. MailClark: Skickar e-post direkt från Slack. MailClark är boten som enkelt 
+låter dig skicka ett mejl från Slacks meddelande-fönster. Allt du behöver göra är att skriva 
+emoji-ikonen för mejl följt av innehållet. När du sedan kallar på MailClark får 
+du skriva i mottagarens epostadress och vips är mejlet skickat. Boten kan även se till
+att mottagna mejl postas direkt i slack.
+
+
+
+7. Meekan Scheduling Assistant: Hittar lediga tider i allas scheman. I stora 
+organisationer kan det vara krångligt att hitta gemensamma hål i schemat för 
+möten. Meekan löser
+detta problem genom att läsa av alla användares digitala kalendrar för att 
+hitta en tidpunkt då alla är lediga. Fungerar med kalendrar från Google, Office 36 och iCloud.
